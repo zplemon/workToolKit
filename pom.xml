@@ -52,6 +52,12 @@
 		    <artifactId>poi-ooxml</artifactId>  
 		    <version>3.14</version>  
 		</dependency>
+		
+		<dependency>
+			<groupId>cn.hutool</groupId>
+			<artifactId>hutool-all</artifactId>
+			<version>5.5.1</version>
+		</dependency>
 
 		<!--yml解析-->
 		<dependency>
